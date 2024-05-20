@@ -6,18 +6,18 @@ range:
 mark every:
 
 ## Print all numbers in that range
-1
-2
-3
-4
-..
+- 1
+- 2
+- 3
+- 4
+- ..
 
 ## Mark every number example: 3
-1
-2
-3 <-
-4
-..
+- 1
+- 2
+- 3 <-
+- 4
+- ..
 
 # What does it teach me?
 This teaches you
