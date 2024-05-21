@@ -2,8 +2,8 @@
 Create this simple program in every language
 
 ## Prompt for number
-range:
-mark every:
+- range:
+- mark every:
 
 ## Print all numbers in that range
 - 1
